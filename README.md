@@ -2,7 +2,7 @@
 
 ## Overview
 
-**FreshCart** is a modern eCommerce web application designed to provide a seamless shopping experience. Built using React and Tailwind CSS, it leverages a component-based architecture to deliver a highly interactive and responsive user interface. The application features robust state management through React Context, and it integrates with Stripe for secure payment processing.
+**Fresh Cartify** is a modern eCommerce web application designed to provide a seamless shopping experience. Built using React and Tailwind CSS, it leverages a component-based architecture to deliver a highly interactive and responsive user interface. The application features robust state management through React Context, and it integrates with Stripe for secure payment processing.
 
 ## Table of Contents
 
