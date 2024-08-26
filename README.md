@@ -31,7 +31,6 @@
 
 ## Project Structure
 
-```plaintext
 freshcart/
 ├── public/
 │   ├── freshcart-logo.ico
