@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-- <a href="https://yousef-fresh-cartify.vercel.app/" target="_blank">Fresh Cartify</a>
+- [Demo](#demo)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
@@ -17,7 +17,7 @@
 
 ## Demo
 
-[Live Demo](#) - Coming Soon!
+[Live Demo](#) - <a href="https://yousef-fresh-cartify.vercel.app/" target="_blank">Fresh Cartify</a>
 
 ## Features
 
