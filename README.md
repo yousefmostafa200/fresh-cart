@@ -31,6 +31,7 @@
 
 ## Project Structure
 
+```plaintext
 freshcart/
 ├── public/
 │   ├── freshcart-logo.ico
@@ -64,6 +65,8 @@ freshcart/
 ├── tailwind.config.js
 ├── vite.config.js
 └── README.md
+```
+
 
 ## Key Components
 
@@ -84,10 +87,12 @@ To get started with FreshCart, follow these steps:
    cd freshcart
 
 2. **Install Dependencies**:
+   ```bash
    npm install
 
 3. **Run the Development Server**:
-   npm run dev 
+   ```bash
+   npm run dev
 
 
 ## Usage
