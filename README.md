@@ -17,7 +17,7 @@
 
 ## Demo
 
-[Live Demo](#) - <a href="https://yousef-fresh-cartify.vercel.app/" target="_blank">Fresh Cartify</a>
+<a href="https://yousef-fresh-cartify.vercel.app/" target="_blank">Fresh Cartify</a>
 
 ## Features
 
