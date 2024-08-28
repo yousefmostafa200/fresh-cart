@@ -83,7 +83,8 @@ function CartProvider({ children }) {
   async function checkout(shippingAddress) {
     try {
       const { data } = await axios.post(
-        `https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${cart.data._id}?url=http://localhost:5173`,
+        // `https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${cart.data._id}?url=http://localhost:5173`,
+        `https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${cart.data._id}?url=https://yousef-fresh-cartify.vercel.app/`,
         { shippingAddress },
         {
           headers,
